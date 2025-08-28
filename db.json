@@ -41,6 +41,36 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "moss",
+      "image": "https://media.istockphoto.com/id/2196252217/photo/empty-office-with-vertical-garden-and-parquet-floor.webp?a=1&b=1&s=612x612&w=0&k=20&c=OoSHuiLE7S8EHvoQvCL6a98t9LbNoDOYnNyQc8xh8RA=",
+      "price": "2000",
+      "id": 8
+    },
+    {
+      "name": "moss",
+      "image": "https://media.istockphoto.com/id/2196252217/photo/empty-office-with-vertical-garden-and-parquet-floor.webp?a=1&b=1&s=612x612&w=0&k=20&c=OoSHuiLE7S8EHvoQvCL6a98t9LbNoDOYnNyQc8xh8RA=",
+      "price": "2000",
+      "id": 9
+    },
+    {
+      "name": "moss",
+      "image": "https://media.istockphoto.com/id/2196252217/photo/empty-office-with-vertical-garden-and-parquet-floor.webp?a=1&b=1&s=612x612&w=0&k=20&c=OoSHuiLE7S8EHvoQvCL6a98t9LbNoDOYnNyQc8xh8RA=",
+      "price": "2000",
+      "id": 10
+    },
+    {
+      "name": "moss",
+      "image": "https://media.istockphoto.com/id/2196252217/photo/empty-office-with-vertical-garden-and-parquet-floor.webp?a=1&b=1&s=612x612&w=0&k=20&c=OoSHuiLE7S8EHvoQvCL6a98t9LbNoDOYnNyQc8xh8RA=",
+      "price": "2000",
+      "id": 11
+    },
+    {
+      "name": "avocado",
+      "image": "https://media.istockphoto.com/id/923409966/photo/man-holding-a-new-tree.webp?a=1&b=1&s=612x612&w=0&k=20&c=2QimRJKtsEK2cPCAhG9UQI9tCQe_KoJHhl3lrIZrYuU=",
+      "price": "10",
+      "id": 12
     }
   ]
 }
